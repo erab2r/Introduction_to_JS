@@ -6,4 +6,5 @@ const backend = ['Node.js', 'Express.js', 'MongoDB'];
 const fullStack = frontend.concat(backend);
 console.log('Frontend :', frontend);
 console.log('Backend :', backend);
+
 console.log('Full Stack Technologies:', fullStack);
