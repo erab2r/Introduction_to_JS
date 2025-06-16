@@ -6,4 +6,5 @@
 const fruits = ['apple','bannana','orange','grape','kiwi'];
 console.log(fruits[3]);
 fruits[2] = 'jambura';
+
 console.log(fruits);
