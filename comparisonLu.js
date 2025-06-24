@@ -1,7 +1,7 @@
 const subject = 'chemistry';
 const book = 'Chemistry';
 
-if(subject === book){
+if(subject.toLowerCase === book.toLowerCase){
     console.log('I am reading book');
 }
 
