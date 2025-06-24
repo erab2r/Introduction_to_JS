@@ -13,5 +13,7 @@ console.log(frnd);
 const fnd = [ 'Era', 'Habib', 'Kadiza', 'Mohima', 'Robin' ] 
 const frndss = fnd.join();
 const fr = fnd.join('|');
+const f = fnd.join('-');
 console.log(frndss);
 console.log(fr);
+console.log(f);
