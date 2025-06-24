@@ -10,3 +10,8 @@ console.log(sentence.split(' '));
 const friends = 'Era,Habib,Kadiza,Mohima,Robin';
 const frnd = friends.split(',');
 console.log(frnd);
+const fnd = [ 'Era', 'Habib', 'Kadiza', 'Mohima', 'Robin' ] 
+const frndss = fnd.join();
+const fr = fnd.join('|');
+console.log(frndss);
+console.log(fr);
