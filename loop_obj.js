@@ -10,6 +10,7 @@ const student = {
         }
     }
 }
+
 for(const val in student){
     console.log(val);
     console.log(student[val]);
